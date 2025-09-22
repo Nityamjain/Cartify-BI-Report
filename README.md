@@ -29,7 +29,3 @@ Leverage sales, operational, and customer data to:
 - **Power BI** (DAX, interactive dashboards, visualizations)  
 - **Excel/CSV** dataset (simulated transactional data)  
 - **Business Intelligence principles** (profitability, retention, Pareto analysis)  
-
----
-
-## 📂 Repository Structure  

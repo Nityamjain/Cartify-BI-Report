@@ -5,7 +5,7 @@ The analysis focuses on Cartify, a fast-growing e-commerce company dealing in fa
 
 ---
 
-## 📌 Objective  
+##  Objective  
 Leverage sales, operational, and customer data to:  
 - Identify profit-driving regions, segments, and products  
 - Detect inefficiencies impacting profitability (e.g., discounts, returns, delayed deliveries)  
@@ -15,7 +15,7 @@ Leverage sales, operational, and customer data to:
 
 ---
 
-## 📊 Dashboard Pages  
+##  Dashboard Pages  
 1. **Intro & KPIs** – Business context and tracked metrics  <img width="1106" height="646" alt="image" src="https://github.com/user-attachments/assets/6ea3f391-8ec7-420e-98bb-9ee445dd615f" />
 2. **Sales & Profitability** – Regional/segment analysis, top vs. loss-making areas <img width="1257" height="724" alt="image" src="https://github.com/user-attachments/assets/aab5f638-c4e0-43c6-9a61-c1fda1bb20e2" />
 3. **Discount Analysis** – Discounts vs. profitability correlations  <img width="1254" height="698" alt="image" src="https://github.com/user-attachments/assets/309ed910-7b51-4dc2-b5d5-e2ca97a924c2" />
@@ -24,7 +24,7 @@ Leverage sales, operational, and customer data to:
 6. **Pareto Analysis** – Top 20% products contributing ~80% of profits  <img width="1253" height="716" alt="image" src="https://github.com/user-attachments/assets/4ccae6e7-51f2-498c-8760-0b89a3281919" />
 ---
 
-## 🚀 Tools & Technologies  
+##  Tools & Technologies  
 - **Power BI** (DAX, interactive dashboards, visualizations)  
 - **Excel/CSV** dataset (simulated transactional data)  
 - **Business Intelligence principles** (profitability, retention, Pareto analysis)  
